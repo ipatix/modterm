@@ -1,0 +1,4 @@
+*.o
+modterm
+tags
+specs.txt
